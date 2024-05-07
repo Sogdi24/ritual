@@ -1,0 +1,12 @@
+{
+  "description": "",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "main": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  }
+  
+}
